@@ -1,0 +1,12 @@
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\bin\Debug\netstandard2.0\Domain.dll
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\bin\Debug\netstandard2.0\Domain.pdb
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

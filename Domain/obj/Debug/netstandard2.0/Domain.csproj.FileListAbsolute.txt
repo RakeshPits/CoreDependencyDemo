@@ -1,0 +1,9 @@
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\RAK\Pits\Workshop\SeperationOfConcernsDemo\SeperationOfConcernsDemo\Domain\obj\Debug\netstandard2.0\Domain.pdb

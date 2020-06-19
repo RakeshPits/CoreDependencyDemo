@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+jdEWnn6HKoDTeGd2xsI1sSju0WIH2eKFat9QSo/a08b7Y6NM7rjGWT17JBCeoqmRyN50NRNaIOL+Kp5MzAgA==",
+  "success": true,
+  "projectFilePath": "D:\\RAK\\Pits\\Workshop\\SeperationOfConcernsDemo\\SeperationOfConcernsDemo\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
